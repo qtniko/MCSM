@@ -1,0 +1,2 @@
+# MCSM
+Minecraft Skin Manager

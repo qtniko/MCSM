@@ -1,2 +1,2 @@
 # MCSM
-Minecraft Skin Manager
+Skin Manager for Minecraft
